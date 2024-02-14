@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    padding: 35px;
+}
+
+.header img{
+    max-width: 150px;
+    margin-right: 80px;
+}
+
+.header h2{
+    font-size: 2rem;
+    color: #1B1A55;
+}
+
+.form-input{
+    margin:50px auto 15px auto;
+}
+
+.form-input label{
+    text-align: left;
+    font-size: 1.2rem;
+}
+
+.form-input select{
+    padding: 10px 20px;
+    border: 1px solid #1B1A55;
+    margin: 10px 8px 2px;
+    font-size: 1rem;
+}
+
+.form-input input{
+    padding: 10px 20px;
+    border: 1px solid #1B1A55;
+    margin: 10px 8px 2px;
+    font-size: 1rem;
+}
+
+button{
+    padding: 10px 20px 10px;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
